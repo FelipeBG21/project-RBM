@@ -1,1 +1,1 @@
-# project-advRBM
+# project-RBM
